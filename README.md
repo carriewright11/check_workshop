@@ -1,5 +1,5 @@
 # README
-# Acute Myeloid Leukemia Heatmap Analysis
+# Acute Myeloid Leukemia Heatmap Analysis Documentation
 
 This repository contains an analysis of acute myeloid leukemia (AML) using RNA-seq data from a study by Shih et al., 2017 [1]. The analysis was adapted from the refine.bio-examples notebook [2].
 
